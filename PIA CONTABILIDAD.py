@@ -1240,40 +1240,6 @@ try:
         print("")
 
         break
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-        
-
-
-
-
-
-    
-
-        
-
-
-
-
-
-
 except:
     print("Coloca bien los datos")
 
